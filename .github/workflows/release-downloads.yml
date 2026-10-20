@@ -2,7 +2,7 @@ name: Update release download leaderboard
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 2 * * *'
+    - cron: '0 22 * * *'
 permissions:
   contents: write
 concurrency:
