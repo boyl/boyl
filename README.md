@@ -9,10 +9,10 @@
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
 | 1 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
-| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 134 |
+| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 144 |
 | 3 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 26 |
-| 4 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 19 |
-| 5 | [tingyu](https://github.com/boyl/tingyu) | 19 |
+| 4 | [tingyu](https://github.com/boyl/tingyu) | 23 |
+| 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 19 |
 | 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 12 |
 | 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 11 |
 | 8 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
