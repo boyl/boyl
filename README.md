@@ -4,7 +4,7 @@ Python Developer · Game Modding · Open Source
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boyl&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boyl&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyl&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 > 语言统计基于公开仓库的代码体积，不代表实际熟练程度。
