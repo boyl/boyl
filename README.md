@@ -20,7 +20,7 @@ Python Developer · Game Modding · Open Source
 
 ## GitHub Releases 下载排行榜 · Top 10
 
-统计公开仓库 GitHub Releases 附件的累计下载次数（不含 Git Clone、源码归档、Nexus Mods 或 Steam 下载）。每日自动更新。
+按公开仓库的 Release 附件累计下载量排名，每小时自动检查更新。
 
 <!-- RELEASE_DOWNLOADS_START -->
 
