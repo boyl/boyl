@@ -26,17 +26,18 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 155 |
-| 2 | [tingyu](https://github.com/boyl/tingyu) | 45 |
-| 3 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 28 |
-| 4 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 19 |
-| 5 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 11 |
-| 6 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
-| 7 | [sanabi-infinite-air](https://github.com/boyl/sanabi-infinite-air) | 3 |
-| 8 | [astral-forge](https://github.com/boyl/astral-forge) | 2 |
-| 9 | [mhrise-monster-coach](https://github.com/boyl/mhrise-monster-coach) | 1 |
+| 1 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
+| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 155 |
+| 3 | [tingyu](https://github.com/boyl/tingyu) | 45 |
+| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 28 |
+| 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 19 |
+| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 13 |
+| 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 11 |
+| 8 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
+| 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 3 |
+| 10 | [sanabi-infinite-air](https://github.com/boyl/sanabi-infinite-air) | 3 |
 
-共统计 9 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
+共统计 12 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
 <!-- RELEASE_DOWNLOADS_END -->
 
