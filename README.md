@@ -26,18 +26,18 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
-| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 174 |
-| 3 | [tingyu](https://github.com/boyl/tingyu) | 47 |
-| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 29 |
+| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 176 |
+| 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
+| 3 | [tingyu](https://github.com/boyl/tingyu) | 48 |
+| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 30 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 23 |
 | 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 13 |
 | 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
 | 8 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 5 |
 | 9 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
-| 10 | [sanabi-infinite-air](https://github.com/boyl/sanabi-infinite-air) | 3 |
+| 10 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 3 |
 
-共统计 12 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
+共统计 13 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
 <!-- RELEASE_DOWNLOADS_END -->
 
