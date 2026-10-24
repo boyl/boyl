@@ -27,12 +27,12 @@ Python Developer · Game Modding · Open Source
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
 | 1 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
-| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 170 |
-| 3 | [tingyu](https://github.com/boyl/tingyu) | 45 |
+| 2 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 174 |
+| 3 | [tingyu](https://github.com/boyl/tingyu) | 47 |
 | 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 29 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 23 |
 | 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 13 |
-| 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 11 |
+| 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
 | 8 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 5 |
 | 9 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
 | 10 | [sanabi-infinite-air](https://github.com/boyl/sanabi-infinite-air) | 3 |
