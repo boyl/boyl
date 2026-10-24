@@ -31,11 +31,11 @@ Python Developer · Game Modding · Open Source
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 48 |
 | 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 30 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 23 |
-| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 13 |
+| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 14 |
 | 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
-| 8 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 5 |
-| 9 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
-| 10 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 3 |
+| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 8 |
+| 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 5 |
+| 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
 
 共统计 13 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
