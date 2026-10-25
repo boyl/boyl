@@ -29,11 +29,11 @@ Python Developer · Game Modding · Open Source
 | 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 176 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 175 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 48 |
-| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 31 |
+| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 32 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 23 |
-| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 14 |
+| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 15 |
 | 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
-| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 8 |
+| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 9 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 5 |
 | 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 3 |
 
