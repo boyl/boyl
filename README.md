@@ -26,14 +26,14 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 204 |
+| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 206 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 178 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 58 |
 | 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 33 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 19 |
 | 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
-| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 9 |
+| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 10 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 7 |
 | 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 5 |
 
