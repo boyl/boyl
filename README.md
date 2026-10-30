@@ -31,7 +31,7 @@ Python Developer · Game Modding · Open Source
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 72 |
 | 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 34 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
-| 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 21 |
+| 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 22 |
 | 7 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 20 |
 | 8 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 7 |
