@@ -28,12 +28,12 @@ Python Developer · Game Modding · Open Source
 | ---: | --- | ---: |
 | 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 215 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 178 |
-| 3 | [tingyu](https://github.com/boyl/tingyu) | 70 |
-| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 33 |
+| 3 | [tingyu](https://github.com/boyl/tingyu) | 72 |
+| 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 34 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
-| 6 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 20 |
-| 7 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
-| 8 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 10 |
+| 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 21 |
+| 7 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 20 |
+| 8 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 12 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 7 |
 | 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 5 |
 
