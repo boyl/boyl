@@ -26,18 +26,18 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 220 |
+| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 223 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 178 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 72 |
 | 4 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 35 |
 | 5 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
-| 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 22 |
+| 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 24 |
 | 7 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 21 |
 | 8 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 13 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 7 |
 | 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 5 |
 
-共统计 13 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
+共统计 14 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
 <!-- RELEASE_DOWNLOADS_END -->
 
