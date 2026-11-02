@@ -35,7 +35,7 @@ Python Developer · Game Modding · Open Source
 | 7 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 21 |
 | 8 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 13 |
 | 9 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 7 |
-| 10 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 6 |
+| 10 | [game-modding-toolkit](https://github.com/boyl/game-modding-toolkit) | 5 |
 
 共统计 14 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
