@@ -30,7 +30,7 @@ Python Developer · Game Modding · Open Source
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 183 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 108 |
 | 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 66 |
-| 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 40 |
+| 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 41 |
 | 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 30 |
 | 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 8 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
