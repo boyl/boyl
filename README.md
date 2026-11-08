@@ -29,12 +29,12 @@ Python Developer · Game Modding · Open Source
 | 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 257 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 183 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 113 |
-| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 74 |
+| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 75 |
 | 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 57 |
 | 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 30 |
 | 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 8 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
-| 9 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 17 |
+| 9 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 18 |
 | 10 | [onimusha-achievement-tracker](https://github.com/boyl/onimusha-achievement-tracker) | 13 |
 
 共统计 15 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
