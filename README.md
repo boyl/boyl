@@ -26,7 +26,7 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 309 |
+| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 310 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 186 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 175 |
 | 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 96 |
@@ -35,9 +35,9 @@ Python Developer · Game Modding · Open Source
 | 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 8 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 25 |
 | 9 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
-| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 17 |
+| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 19 |
 
-共统计 15 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
+共统计 16 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
 <!-- RELEASE_DOWNLOADS_END -->
 
