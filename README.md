@@ -26,14 +26,14 @@ Python Developer · Game Modding · Open Source
 
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
-| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 314 |
-| 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 189 |
+| 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 315 |
+| 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 190 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 176 |
-| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 101 |
+| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 105 |
 | 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 58 |
 | 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 30 |
 | 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
-| 8 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 26 |
+| 8 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 27 |
 | 9 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
 | 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 19 |
 
