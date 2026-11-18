@@ -35,7 +35,7 @@ Python Developer · Game Modding · Open Source
 | 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 8 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 27 |
 | 9 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
-| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 19 |
+| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 21 |
 
 共统计 16 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
