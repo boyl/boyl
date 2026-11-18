@@ -29,11 +29,11 @@ Python Developer · Game Modding · Open Source
 | 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 315 |
 | 2 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 190 |
 | 3 | [tingyu](https://github.com/boyl/tingyu) | 176 |
-| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 105 |
+| 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 106 |
 | 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 58 |
 | 6 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 30 |
-| 7 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
-| 8 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 27 |
+| 7 | [phantom-blade-zero-free-traversal](https://github.com/boyl/phantom-blade-zero-free-traversal) | 28 |
+| 8 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 9 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
 | 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 21 |
 
