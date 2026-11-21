@@ -35,7 +35,7 @@ Python Developer · Game Modding · Open Source
 | 7 | [mhrise-hunter-blueprint](https://github.com/boyl/mhrise-hunter-blueprint) | 30 |
 | 8 | [mhrise-lihuo-sns-vfx](https://github.com/boyl/mhrise-lihuo-sns-vfx) | 27 |
 | 9 | [isaac-console-mod](https://github.com/boyl/isaac-console-mod) | 23 |
-| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 21 |
+| 10 | [onimusha-auto-issen](https://github.com/boyl/onimusha-auto-issen) | 22 |
 
 共统计 16 个有 Release 附件的公开仓库；数据来源：GitHub REST API。
 
