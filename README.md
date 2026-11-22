@@ -27,7 +27,7 @@ Python Developer · Game Modding · Open Source
 | 排名 | 仓库 | 累计下载量 |
 | ---: | --- | ---: |
 | 1 | [kingdom-advisor](https://github.com/boyl/kingdom-advisor) | 320 |
-| 2 | [tingyu](https://github.com/boyl/tingyu) | 192 |
+| 2 | [tingyu](https://github.com/boyl/tingyu) | 193 |
 | 3 | [isaac-chinese-console](https://github.com/boyl/isaac-chinese-console) | 190 |
 | 4 | [phantom-blade-zero-map-guide](https://github.com/boyl/phantom-blade-zero-map-guide) | 117 |
 | 5 | [astral-ascent-bd-mod](https://github.com/boyl/astral-ascent-bd-mod) | 58 |
